@@ -2,7 +2,6 @@
 <body>
 <h1>
 Prova
-<p>Linha extra<p>
 </h1>
 <p>teste</p>
 </body>
